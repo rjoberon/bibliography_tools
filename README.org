@@ -7,4 +7,4 @@
 
 ** Tools
 
-- ~enrich_bibtex.py~ :: given a BibTeX file, adds DOIs from Crossref
+- [[file:enrich_bibtex.py][enrich_bibtex.py]] :: given a BibTeX file, adds DOIs from Crossref
