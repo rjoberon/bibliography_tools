@@ -1,0 +1,10 @@
+* Bibliography Tools
+
+** Dependencies
+
+- [[https://github.com/sciunto-org/python-bibtexparser][bibtexparser]] - to parse and write BibTeX files
+- [[https://github.com/sckott/habanero/][habanero]] - to access the [[https://github.com/CrossRef/rest-api-doc][Crossref API]]
+
+** Tools
+
+- ~enrich_bibtex.py~ :: given a BibTeX file, adds DOIs from Crossref
